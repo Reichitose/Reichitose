@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Reichitose
+- this account will upload some note about CS learning
+- OS WEB PYTHON GO BLOCKCHAIN etc.
 ...
 
 <!---
